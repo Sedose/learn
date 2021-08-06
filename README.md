@@ -1,6 +1,6 @@
 # learn
 Front-end:
-  path: https://github.com/abelianring?tab=repositories
+  path: https://github.com/kamranahmedse/developer-roadmap
   
 JS:
   FP:
