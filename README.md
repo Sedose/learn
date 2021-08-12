@@ -8,4 +8,4 @@ JS:
     https://github.com/hemanth/functional-programming-jargon
     
 SQL:
-  https://en.wikibooks.org/wiki/SQL_Exercises
+  https://en.wikibooks.org/wiki/SQL_Exercises continue from #15
