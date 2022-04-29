@@ -9,3 +9,6 @@ JS:
     
 SQL:
   https://en.wikibooks.org/wiki/SQL_Exercises continue from #15
+  
+Awesome: 
+  https://github.com/sindresorhus/awesome
