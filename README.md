@@ -12,3 +12,5 @@ SQL:
   
 Awesome: 
   https://github.com/sindresorhus/awesome
+
+https://sci-hub.se/stats
